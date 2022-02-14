@@ -2,8 +2,6 @@
 using Microsoft.Extensions.Options;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using System.Text.Encodings.Web;
 using System.Security.Claims;

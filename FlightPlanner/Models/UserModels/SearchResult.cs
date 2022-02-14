@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace FlightPlanner.Models.UserModels
+﻿namespace FlightPlanner.Models.UserModels
 {
     public class SearchResult
     {
